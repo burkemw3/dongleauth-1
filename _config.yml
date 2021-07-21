@@ -1,0 +1,25 @@
+permalink: pretty
+markdown: kramdown
+
+title: USB Dongle Authentication 
+author: Nitrokey 
+description:
+    List of websites and whether or not they support One Time Passwords (OTP) or Universal 2nd Factor (U2F).
+url: https://dongleauth.info
+repo: https://github.com/nitrokey/dongleauth
+img: img/usb_stick.png
+sass:
+    style: compressed
+
+exclude:
+    - CNAME
+    - CONTRIBUTING.md
+    - EXCLUSION.md
+    - Gemfile
+    - LICENSE
+    - README.md
+    - Rakefile
+    - UPSTREAM_DIFF.md
+    - verify.rb
+    - vendor
+    - websites_schema.yml
