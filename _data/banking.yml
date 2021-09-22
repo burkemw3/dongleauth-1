@@ -115,6 +115,7 @@ websites:
       sms: Yes
       email: Yes
       hardware: Yes
+      u2f: Yes
       doc: https://www.bankofamerica.com/privacy/online-mobile-banking-privacy/safepass.go
 
     - name: Bank of China (Hong Kong)
